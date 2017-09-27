@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Requests;
-use app\Repositories\TaskRepository;
+use App\Repositories\TaskRepository;
 class TaskController extends Controller {
 
     /**

@@ -1,5 +1,6 @@
 <?php
-
+namespace App\Repositories;
+use App\User;
 /**
  * Description of TaskRepository
  *
